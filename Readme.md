@@ -1,11 +1,4 @@
-python-search-project/
-│
-├── search.py
-├── wiki.py
-├── search_test.py
-├── search_tests_helper.py
-├── README.md
-└── requirements.txt
+
 
 ```plaintext
 
