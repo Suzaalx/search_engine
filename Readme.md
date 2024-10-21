@@ -6,12 +6,12 @@
 
 1. Ensure you have Python 3.x installed on your system.
 2. Clone this repository:
-```
+```plaintext
 
 git clone [https://github.com/Suzaalx/search_engine.git](https://github.com/Suzaalx/search_engine.git)
 cd python-search-project
 
-```plaintext
+```
 3. Install the required dependencies:
 ```
 
