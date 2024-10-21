@@ -4,23 +4,23 @@ Ensure you have Python 3.x installed on your system.
 Clone this repository:
 text
 ```git clone https://github.com/Suzaalx/search_engine.git
-cd python-search-project```
+cd python-search-project ```
 
 Install the required dependencies:
 
-```pip install -r requirements.txt```
+```pip install -r requirements.txt ```
 
 Running the Project
 To run the search functionality:
 
-```python search.py```
+```python search.py ```
 
 This will prompt you for a search keyword and offer advanced search options.
 
 Running Tests
 To run the tests:
 
-```python -m unittest search_test.py```
+```python -m unittest search_test.py ```
 
 ## Main Functions
 The main search functions in search.py include:
