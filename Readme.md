@@ -15,7 +15,7 @@ python-search-project/
 2. Clone this repository:
 ```
 
-git clone [https://github.com/yourusername/python-search-project.git](https://github.com/yourusername/python-search-project.git)
+git clone [https://github.com/Suzaalx/search_engine.git](https://github.com/Suzaalx/search_engine.git)
 cd python-search-project
 
 ```plaintext
@@ -111,33 +111,3 @@ The project includes both unit tests and integration tests:
 - Unit tests check individual functions for correct behavior.
 - Integration tests simulate user input and check the overall functionality of the search system.
 
-To add new tests:
-1. Open `search_test.py`
-2. Add new test methods to the `TestSearch` class
-3. Use assertions to check expected outcomes
-
-## Contributing
-
-Contributions to this project are welcome. Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Make your changes and commit them (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a new Pull Request
-
-Please ensure that your code passes all tests and follows the existing coding style.
-```
-
-This more detailed README.md provides a comprehensive overview of the project, including:
-
-1. A table of contents for easy navigation
-2. A visual representation of the project structure
-3. More detailed setup instructions
-4. Expanded descriptions of each main function
-5. A dedicated section describing each file in the project
-6. More information about the testing process and how to contribute new tests
-7. A more detailed contribution guide
-
-
-This README should give users and potential contributors a thorough understanding of the project, its structure, and how to use and extend it.
